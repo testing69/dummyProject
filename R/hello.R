@@ -18,7 +18,7 @@
 hello <- function() {
   print("Hello, world!")
 
-  if (FALSE) {
-    stop("should never be reached")
+  if (TRUE) {
+    message("should be reached")
   }
 }
