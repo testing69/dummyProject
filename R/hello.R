@@ -17,4 +17,6 @@
 #' @export
 hello <- function() {
   print("Hello, world!")
+
+  message("should be reached")
 }
