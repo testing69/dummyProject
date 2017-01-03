@@ -17,4 +17,8 @@
 #' @export
 hello <- function() {
   print("Hello, world!")
+
+  if (FALSE) {
+    stop("should never be reached")
+  }
 }
