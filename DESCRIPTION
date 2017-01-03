@@ -9,5 +9,6 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests:
-    covr
+    covr,
+    testthat
 RoxygenNote: 5.0.1
